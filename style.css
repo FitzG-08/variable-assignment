@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+
+#introduction {
+    color: cyan;
+    background-color: royalblue;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+  
+  #my-favourite-color {
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
