@@ -20,3 +20,21 @@ body{
     margin-bottom: 1em;
     padding: 0.5em;
   }
+
+  #my-hair-color {
+    color: white;
+    background-color: black;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+
+  #my-number-of-siblings {
+    color: white;
+    background-color: blue;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
